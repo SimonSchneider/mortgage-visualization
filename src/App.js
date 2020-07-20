@@ -71,23 +71,16 @@ function calculateOwners() {
   let owners = [
     {
       name: "Bank",
-      ownership: 2990642,
+      ownership: 2975066,
       props: {
         fill: "red",
       },
     },
     {
       name: "Simon's parents",
-      ownership: 64888,
+      ownership: 49500,
       props: {
         fill: "yellow"
-      },
-    },
-    {
-      name: "Marit's parents",
-      ownership: 22000,
-      props: {
-        fill: "orange",
       },
     }
   ]
